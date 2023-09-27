@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../flutter_windows_3.13.4-stable/flutter/packages/flutter_tools/gradle" />
+    <file type="web" url="file://$PROJECT_DIR$/app/android" />
+    <file type="web" url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore-4.9.2/android" />
+    <file type="web" url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core-2.16.0/android" />
+    <file type="web" url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_database-10.2.6/android" />
+    <file type="web" url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/fluttertoast-8.2.2/android" />
+    <file type="web" url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_android-2.2.1/android" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="Android API 31 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

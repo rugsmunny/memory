@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "492146080544",
+    "firebase_url": "https://memory-902ea-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "memory-902ea",
+    "storage_bucket": "memory-902ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492146080544:android:5a849682b837f85ce67545",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJp56T6xr8zrgOGPHgt8-G5Bri8Ywpvtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+

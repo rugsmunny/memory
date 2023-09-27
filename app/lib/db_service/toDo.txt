@@ -1,0 +1,3 @@
+ic_launcher för app ikonen
+favicon för browser icon
+inkludera mappen i pubspec.yaml assets
